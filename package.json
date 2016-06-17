@@ -1,6 +1,6 @@
 {
   "name": "mini-pinyin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Get tone(pinyin) of Chinese character.",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,7 @@
   ],
   "files": [
     "index.js",
+    "pinyin.json",
     "README.md"
   ],
   "author": "Letian (http://www.letiantian.me)",
