@@ -1,0 +1,31 @@
+{
+  "name": "mini-pinyin",
+  "version": "0.0.1",
+  "description": "Get tone(pinyin) of Chinese character.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/someus/mini-pinyin.git"
+  },
+  "keywords": [
+    "pinyin",
+    "Chinese",
+    "character",
+    "拼音",
+    "汉字",
+    "汉语拼音"
+  ],
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "author": "Letian (http://www.letiantian.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/someus/mini-pinyin/issues"
+  },
+  "homepage": "https://github.com/someus/mini-pinyin#readme"
+}
